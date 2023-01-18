@@ -2,9 +2,9 @@
 
 <!--<img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right">-->
 
-<img src="https://www.linkpicture.com/q/5834768.jpg" width=40% height=45% align="right">
+<img src="https://www.linkpicture.com/q/5834768.jpg" width=30% height=35% align="right">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushi-mittal" alt="aayushi-mittal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-agarwal" alt="ayush-agarwal" /> </p>
 
 <p style="font-family:courier;"><b>I am <b>Ayush</b> from Jhansi, India. I am a technology enthusiast and value investor too.Currently, I am pursuing B.Tech in Computer Science from Sharda University, Greater Noida. Currently I am working on Blockchain Technology. I am waiting to work for an reputable organization that works at a scale and would love playing chess and listening music🎶 too.             
 
@@ -30,8 +30,8 @@ So far I have <b><i> Java, Slack , Solidity , HTML, CSS, and Git/Github </i></b>
 I am very much passionate about social media and new age technologies. I enjoy supporting people. So, please feel free to connect with me.</p>
 
 <div align="center">
-<a href="https://twitter.com/_aayushimittal_" target="_blank">
-<img src=https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg alt=twitter style="margin-bottom: 7px;" />
+<a href="https://www.facebook.com/profile.php?id=100035905262683" target="_blank">
+<img src=https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg alt=twitter style="margin-bottom: 1px;" />
 </a>
 <a href="https://www.linkedin.com/in/ayush-agarwal-%F0%9F%9A%A9-3aba67210/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 20px;" />
@@ -45,25 +45,3 @@ I am very much passionate about social media and new age technologies. I enjoy s
 <p align="center" style="color:darkgreen;>&nbsp;</p>
 <h3 align="center" ><b>Show some 💗 by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories.</h3>
 <p align="center">_______________________________________</b></p>
-
-
-
-
-
-
-
-
-<!--
-**Aayushi-Mittal/Aayushi-Mittal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
