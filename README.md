@@ -10,7 +10,7 @@
 
 <i>That's all about me.</i></b>
 <p style="font-family:courier;">
-So far I have <b><i> Java, JavaScript , Solidity , HTML, CSS, and Git/Github </i></b> under my belt. I am learning full-stack development as well.
+So far I have <b><i> Java, JavaScript ,NodeJs , HTML, CSS, and Git/Github </i></b> under my belt. I am learning full-stack development as well.
 
 
 <p align="center">  
