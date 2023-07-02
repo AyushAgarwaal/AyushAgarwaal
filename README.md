@@ -2,7 +2,7 @@
 
 <!--<img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right">-->
 
-<img src="https://github.com/AyushAgarwaal/AyushAgarwaal/blob/master/1675874823588.jpg" width=30% height=25% align="right">
+<img src="https://github.com/AyushAgarwaal/AyushAgarwaal/blob/master/1675874823588.jpg" width=20% height=25% align="right">
 
 <p align="left"> <img src="" alt="ayush-agarwal" /> </p>
 
