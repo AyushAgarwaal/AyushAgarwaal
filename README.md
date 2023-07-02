@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-agarwal" alt="ayush-agarwal" /> </p>
 
-<p style="font-family:courier;"><b>I am <b>Ayush</b> from Jhansi, India. I am a technology enthusiast and value investor too.Currently, I am pursuing B.Tech in Computer Science from Sharda University, Greater Noida. Currently I am working on Blockchain Technology. I am waiting to work for an reputable organization that works at a scale and would love playing chess and listening music🎶 too.             
+<p style="font-family:courier;"><b>I am <b>Ayush</b> from Jhansi, India. I am a new Age-technology enthusiast and value investor too.Currently, I am pursuing B.Tech in Computer Science from Sharda University, Greater Noida. Now, I am working as a backend developer and playing with some backend languages like Java ,NodeJS & JavaScript. Listening Music and trading is my best freetime hobbies.           
 
 <i>That's all about me.</i></b>
 <p style="font-family:courier;">
