@@ -5,11 +5,11 @@
 <img src="https://github.com/AyushAgarwaal/AyushAgarwaal/blob/master/1675874823588.jpg" width=20% height=25% align="right">
 
 
-<p style="font-family:courier;"><b>I am <b>Ayush</b> from Jhansi, India. I am a new Age-technology enthusiast and value investor too.Currently, I am pursuing B.Tech in Computer Science from Sharda University, Greater Noida. Now, I am working as a backend developer and playing with some backend languages like Java ,NodeJS & JavaScript. Listening Music and trading is my best freetime hobbies.           
+<p style="font-family:courier;"><b>I am <b>Ayush</b> from Jhansi, India. I am a new Age-technology enthusiast and value investor too.Currently, I am pursuing B.Tech in Computer Science from Sharda University, Greater Noida. Now, I am working as a JAVA & MEAN developer and playing with some BACKEND & FRONTEND languages like Java ,NodeJS, AngularJS, BootStrap, HTML & CSS. Listening Music and trading is my best freetime hobbies.           
 
 <i>That's all about me.</i></b>
 <p style="font-family:courier;">
-So far I have <b><i> Java, JavaScript ,NodeJs , HTML, CSS, and Git/Github </i></b> under my belt. I am learning full-stack development as well.
+So far I have <b><i> Java, AngularJS ,NodeJs , HTML, CSS, and Git/Github </i></b> under my belt. As a MEAN Stack Developer, I love designing web applications and product ready applications .
 
 
 <p align="center">  
