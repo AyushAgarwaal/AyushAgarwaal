@@ -1,8 +1,6 @@
 <h1 style="font-family:courier;"> Hello Coders! <img src="https://imgur.com/TFzFv3D.gif" height=20px width=20px></h1>
 
-<!--<img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right">-->
-
-<img src="https://github.com/AyushAgarwaal/AyushAgarwaal/blob/master/1675874823588.jpg" width=20% height=25% align="right">
+<!--<img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right">-->>
 
 
 <p style="font-family:courier;"><b>I am <b>Ayush</b> from Jhansi, India. I am a new Age-technology enthusiast and value investor too.Currently, I am pursuing B.Tech in Computer Science from Sharda University, Greater Noida. Now, I am working as a JAVA & MEAN developer and playing with some BACKEND & FRONTEND languages like Java ,NodeJS, AngularJS, BootStrap, HTML & CSS. Listening Music and trading is my best freetime hobbies.           
