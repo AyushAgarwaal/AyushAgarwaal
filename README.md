@@ -30,7 +30,7 @@ I am very much passionate about social media and new age technologies. I enjoy s
 <a href="https://www.facebook.com/profile.php?id=100035905262683" target="_blank">
 <img src=https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg alt=twitter style="margin-bottom: 1px;" />
 </a>
-<a href="https://www.linkedin.com/in/ayush-agarwal-%F0%9F%9A%A9-3aba67210/" target="_blank">
+<a href="https://www.linkedin.com/in/ayush-agarwal-3aba67210/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 20px;" />
 </a>
 <a href="https://github.com/AyushAgarwaal" target="_blank">
