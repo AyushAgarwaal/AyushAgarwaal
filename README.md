@@ -1,7 +1,7 @@
 
 <h1 style="font-family:courier;"> Hello Coders!<img src="https://imgur.com/TFzFv3D.gif" height=20px width=20px></h1>
 
-<p  width="150px"><b>I am a new Age-technology enthusiast and value investor too.Currently, I am pursuing B.Tech in Computer Science from Sharda University, Greater Noida. Now, I am working as a <b>Full Stack Web Developer</b> and playing with some cool tech languages & Frameworks</b>          
+<p  width="150px"><b>I am a new Age-technology enthusiast and value investor too.Currently, I am graduated from Sharda University  in B.Tech Computer Science & Engineering , 2023. Now, I am working as a <b>Full Stack Web Developer</b> and playing with some cool tech languages & Frameworks</b>          
 
 <center><i>That's all about me.</i></center>
 <p style="font-family:courier;"><br>
