@@ -1,10 +1,10 @@
 
 <h1 style="font-family:courier;"> Hello Coders!<img src="https://imgur.com/TFzFv3D.gif" height=20px width=20px></h1>
 
-<p  width="150px"><b>I am a new Age-technology enthusiast and value investor too.Currently, I am pursuing B.Tech in Computer Science from Sharda University, Greater Noida. Now, I am working as a JAVA & MEAN developer and playing with some BACKEND & FRONTEND languages like Java ,NodeJS, AngularJS, BootStrap, HTML & CSS. Listening Music and trading is my best freetime hobbies.</b>           
+<p  width="150px"><b>I am a new Age-technology enthusiast and value investor too.Currently, I am pursuing B.Tech in Computer Science from Sharda University, Greater Noida. Now, I am working as a <b>Full Stack Web Developer</b> and playing with some cool tech languages & Frameworks</b>          
 
 <center><i>That's all about me.</i></center>
-<p style="font-family:courier;">
+<p style="font-family:courier;"><br>
 So far I have <b><i> Java, AngularJS ,NodeJs , HTML, CSS, and Git/Github </i></b> under my belt. As a MEAN Stack Developer, I love designing web applications and product ready applications .</p>
 
 
