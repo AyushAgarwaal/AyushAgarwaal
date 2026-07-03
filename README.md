@@ -8,10 +8,6 @@
 So far I have <b><i> Java, AngularJS ,NodeJs , HTML, CSS, and Git/Github </i></b> under my belt. As a MEAN Stack Developer, I love designing web applications and product ready applications .</p>
 
 
-
-
-<p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/ayushagarwaal/count.svg" alt="visitor badge"/></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushagarwaal&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=ayushagarwaal&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushagarwaal&theme=chartreuse-dark"></p>
