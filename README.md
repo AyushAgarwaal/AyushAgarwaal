@@ -1,11 +1,11 @@
 
 <h1 style="font-family:courier;"> Hello Coders!<img src="https://imgur.com/TFzFv3D.gif" height=20px width=20px></h1>
 
-<p  width="150px"><b>I am a new Age-technology enthusiast and value investor too.Currently, I am graduated from Sharda University  in B.Tech Computer Science & Engineering , 2023. Now, I am working as a <b>Full Stack Web Developer</b> and playing with some cool tech languages & Frameworks</b>          
+<p  width="150px"><b>I am a enthusiast Software Techie, graduated from Sharda University in B.Tech(Computer Science & Engineering) , 2023. Now, I am working as a <b>Backend Developer</b> and playing with some cool tech languages & Frameworks</b>          
 
 <center><i>That's all about me.</i></center>
 <p style="font-family:courier;"><br>
-So far I have <b><i> Java, AngularJS ,NodeJs , HTML, CSS, and Git/Github </i></b> under my belt. As a MEAN Stack Developer, I love designing web applications and product ready applications .</p>
+So far I have <b><i> Java, JavaScript ,NodeJs , HTML/CSS, React.js, Websockets, REST APIs, Redis, Kafka, Docker, AWS and Git/Github </i></b> under my belt. As a MEAN Stack Developer, I love designing web applications and product ready applications .</p>
 
 <br>
 <br>
